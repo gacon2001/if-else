@@ -15,6 +15,7 @@ button{
     margin: 10px 15px;
 }
 .end{
+    background-color: rgb(205, 235, 176);
     padding: 10px 0;
     border-radius: 8px;
     border: 1px solid green;
